@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: webapp1
-        image: vishalsoni22/k8s:tagversion
+        image: goyal_madhu14/k8s:tagversion
         ports:
         - containerPort: 8080
 ---
